@@ -1,4 +1,4 @@
-//
+#Digite o numero para identificar se é positivo ou negativo
 N = int(input())
 for i in range(N):
     x = int(input())
